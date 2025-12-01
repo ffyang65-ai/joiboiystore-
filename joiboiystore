@@ -1,5 +1,12 @@
-joiboiystore/
-├── index.html
-└── assets/
-    └── images/
-        └── f009044103b4fa820dc8310640e41bfe.jpg
+joiboiystore/           
+├── index.html           
+├── style.css            
+├── assets/
+│   ├── images/          
+│   │   ├── hero-device.jpg
+│   │   ├── device.jpg
+│   │   ├── f009044103b4fa820dc8310640e41bfe.jpg
+│   │   ├── coil.jpg
+│   │   └── map.jpg
+│   └──  icons.jpg
+└── README.md            
