@@ -1,5 +1,9 @@
-<img src="assets/images/hero-device.jpg" alt="Hero Device">
-<img src="assets/images/device.jpg" alt="Device">
-<img src="assets/images/f009044103b4fa820dc8310640e41bfe.jpg" alt="Liquid Premium">
-<img src="assets/images/coil.jpg" alt="Coil & Spare">
-<img src="assets/images/map.jpg" alt="Map Lokasi Toko">
+vape-website/
+├── index.html
+└── assets/
+    └── images/
+        ├── hero-device.jpg
+        ├── device.jpg
+        ├── liquid.jpg
+        ├── coil.jpg
+        └── map.jpg
