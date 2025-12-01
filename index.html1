@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Vape Premium</title>
+</head>
+<body>
+
+  <!-- Produk contoh -->
+  <div class="product">
+    <img src="assets/images/f009044103b4fa820dc8310640e41bfe.jpg" alt="Liquid Premium">
+    <h3>Liquid Premium • Mango Crush</h3>
+    <p>Rasa fruity, aroma stabil.</p>
+  </div>
+
+</body>
+</html>
